@@ -39,3 +39,4 @@ Winning Percentage: 73.8%
 
 The Challenge has helped our startup company to extract, learn the big datas. ALl our staffs learned to use python and Visual studio , which helped us understand different loops, IF, FOR and many syntax. Our staffs also learned to import and inspect the datas and put the solutions in .txt files. 
 
+https://www.linkedin.com/in/utsav-chaudhary-b394152b
