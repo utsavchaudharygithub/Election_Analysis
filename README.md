@@ -14,7 +14,8 @@ software: python 3.6.1 , vistal studio code. : 1.38.1
 ****Summary****
 
 Election Results
--------------------------
+-------------------------<img width="461" alt="election_analysis" src="https://user-images.githubusercontent.com/91306158/143162778-e1976049-1a05-4821-901a-a4a94b6dc9ab.png">
+
 Total Votes: 369,711"
 -------------------------
 
