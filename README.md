@@ -9,7 +9,7 @@ A colorado Board of Elections employee has given our company tasks to complete t
 
 **Resources**
 -Data source: election_results.csv
-software: python 3.6.1 , vistal studio code. : 1.38.1
+software: python 3.6.1 , visual studio code. : 1.38.1
 
 ****Summary****
 
